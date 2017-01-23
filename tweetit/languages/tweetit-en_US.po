@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tweet It Shortcode Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-05 06:48+0000\n"
+"PO-Revision-Date: 2016-10-05 06:48+0000\n"
+"Last-Translator: admin <zeiad.habbab@live.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: tweetit.php:249
+msgid "Share it"
+msgstr ""
+
+#: tweetit.php:253
+msgid "Tweet it"
+msgstr ""
+
+#: classes/class-tweetit-plugin-settings.php:245
+msgid "Twitter Username"
+msgstr ""
+
+#: classes/class-tweetit-plugin-settings.php:253
+msgid "Facebook App"
+msgstr ""
+
+#: classes/class-tweetit-plugin-settings.php:261
+msgid "Show Facebook Icon"
+msgstr ""
+
+#: classes/class-tweetit-plugin-settings.php:269
+msgid "Show Twitter Icon"
+msgstr ""
+
+#: classes/class-tweetit-plugin-settings.php:277
+msgid "Background Color"
+msgstr ""
+
+#. Name of the plugin
+msgid "Tweet It Shortcode Plugin"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This is a short description of what the plugin does. It's displayed in the "
+"WordPress admin area."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://appygoo.com/tweeit-shorcode/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Zeiad Habbab"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://appygoo.com"
+msgstr ""
+
+msgid "dir"
+msgstr "ltr"

@@ -1,0 +1,39 @@
+.tweetit-box{
+	display: block;
+	border-color: #fff;
+	border-width: 1px;
+}
+
+.tweetit-box a, .tweetit-box span{
+	color: #fff;
+	text-decoration: none;
+	border:0;
+	font-style: italic;
+}
+.tweetit-box {
+	display: block;
+	border-color: #fff;
+	border-width: 1px;
+	text-decoration: none;
+	padding: 10px 20px;
+	font-size: 1em;
+	margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.tweetit-link{
+	font-size: 16px;
+	text-align: right;
+}
+
+.tweetit-links{
+	text-align: right;
+}
+
+.twitter-background{
+	background-color: #00abed;
+}
+
+.facebook-background{
+	background-color: #3b5998;
+}
